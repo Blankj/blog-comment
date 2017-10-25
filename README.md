@@ -1,3 +1,3 @@
 # blog-comment
 
-这是使用gitment需要的评论repo
+这是使用gitalk需要的评论repo
